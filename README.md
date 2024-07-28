@@ -39,7 +39,7 @@ The CRM for ISP (Customer Relationship Management for Internet Service Providers
 3. Service man can view and solve own assigned complaints only.
 
 ## Installation and Setup <a name="installationandsetup"></a>
-1. Clone the repository: `git clone https://github.com/Bhumikapatil22/CRM-For-ISP.git`
+1. Clone the repository: `git clone https://github.com/Bhumikapatil22/CRM-For-ISP`
 2. Set up the database using XAMPP.
 3. Open the project in your Eclipse IDE.
 
